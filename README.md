@@ -28,4 +28,11 @@ Long Short-Term Memory (LSTM)
 Bidirectional LSTM (Bi-LSTM)
 5. Model Evaluation
 Confusion Matrix: Analyzes the performance of classification algorithms.
+
+Results
+The project compares several ML and DL models, with Bi-LSTM and BERT encoding achieving the best results for fake news detection.
+
+Contributors
+Sai Krishna Veni - MCA Student, CUSAT
+Dr. Balasubramanian P - Assistant Professor, Indian Institute of Information Technology Kottayam
 Evaluation Metrics: Includes accuracy, precision, recall, and F1 score.
